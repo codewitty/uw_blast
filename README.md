@@ -39,7 +39,7 @@ Ensure the following are installed on your system:
 
 1. Start the FastAPI server:
    ```bash
-   uvicorn main:app --reload
+   uvicorn app:app --reload
    ```
 
 2. Open your browser and navigate to:

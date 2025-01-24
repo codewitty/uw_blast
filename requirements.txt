@@ -1,4 +1,6 @@
 fastapi
 uvicorn
 biopython
+jinja2
+python-multipart
 
